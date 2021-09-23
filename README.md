@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><a href="#"><img width="100%" height="auto" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" height="400px"/></a>
+--!>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, MYSELF ADITI DHIMAN</h1>
 <h3 align="center">I'm a enthusiastic about technologics.</h3>
@@ -96,4 +96,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aditidhiman">
 </a>
-<a href="https://github.com/Dcode-k?tab=followers"><img src="https://img.shields.io/github/followers/aditidhiman?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aditidhiman?tab=followers"><img src="https://img.shields.io/github/followers/aditidhiman?label=Followers&style=social" alt="GitHub Badge"></a>
