@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
-- 📫 How to reach me **aditidhiman6789@gmail.com**
-
-- ⚡ Fun fact **I like to watch TV shows.**
+- 📫 How to reach me **aditidhiman6789@gmail.com*
 
 ## 🚀 Languages and Tools:
 
